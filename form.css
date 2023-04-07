@@ -16,4 +16,21 @@
   table{
     margin-top: 20px;
     border-spacing: 15px;
+   
+  }
+
+  .mar{
+    color: #f6f8fa;
+  }
+
+  
+  .bg-image {
+    /* background-image: url('../New folder (3)/sumansunar/img/pic.JPG'); */
+    /* background-image: url(https://i.insider.com/601c2b975f153c001979b322?width=1000&format=jpeg&auto=webp); */
+    background-size: cover;
+    filter: blur(5px);
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    z-index: -1;
   }
